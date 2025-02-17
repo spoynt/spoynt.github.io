@@ -1312,7 +1312,7 @@ body {
     justify-content: space-between;
     margin-bottom: 60px;
 }
-.work-request--information .information-name, .work-request--information .information-email {
+.work-request--information .information-message, .work-request--information .information-email {
     position: relative;
     width: 45%;
     height: 50px;
